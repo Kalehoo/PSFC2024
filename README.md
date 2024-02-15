@@ -1,20 +1,20 @@
-<h1>PSFC2024</h1>
-<h5>Personel Service For Coders / My thesis for spring 2024 (Savo Vocational College)</h5>
+<h1>PSFD2024</h1>
+<h5>Personel Service For Developers / My thesis for spring 2024 (Savo Vocational College)</h5>
 
 
 <h2>Project in nutshell</h2>
 
-<p>PSFC2024 is a thesis project which main goals is to improve practical skills aswell as demonstrate ability for wide-spectrum web application developement.</p>
+<p>PSFD2024 is a thesis project which main goals is to improve practical skills aswell as demonstrate ability for wide-spectrum web application developement.</p>
 
 <h2>Plan:</h2>
 <ol>
   <li>
     <b><u>Platform and solution</b></u>
-    <p>PSFC2024 will be built on LNMPA, or Kali Linux (VM, Virtualbox) using Nginx as a server-, MySql as a database- and Angular as a coding solution. On frontend design plan is to use SASS-customized Bootstrap 5.2.</p>
+    <p>PSFD2024 will be built on LNMPA, or Kali Linux (VM, Virtualbox) using Nginx as a server-, MySql as a database- and Angular as a coding solution. On frontend design plan is to use SASS-customized Bootstrap 5.2.</p>
   </li>
   <li>
-    <b><u>Functionality / What does PSFC2024 do?</b></u>
-    <p>PSFC2024 is planned to work as a website where different developers and employers are seeking from short- to long-term contract of employment. Employers registered on site are able to hire developers or offer training packages fitted to their needs to study. By either successfully completing tasked workhours or provided training packages developers get virtual points increasing their overall ranking. Employers get their rating through feedback, which will be moderated by admins. </p>
+    <b><u>Functionality / What does PSFD2024 do?</b></u>
+    <p>PSFD2024 is planned to work as a website where different developers and employers are seeking from short- to long-term contract of employment. Employers registered on site are able to hire developers or offer training packages fitted to their needs to study. By either successfully completing tasked workhours or provided training packages developers get virtual points increasing their overall ranking. Employers get their rating through feedback, which will be moderated by admins. </p>
   </li>
     <li>
       <b><u>Challenges</b></u>
